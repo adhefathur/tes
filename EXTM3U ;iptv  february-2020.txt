@@ -1,0 +1,644 @@
+===================================================================================================================
+For paid channels from here : << http://exe.io/hg5J1a >>
+====================================================================================================================
+# EXTM3U
+#EXTINF: -1 tvg-ID = "" tvg-name = "Biznet - Gaya Hidup HD" tvg-logo = "" judul-grup = "Hiburan", Biznet - Gaya Hidup HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1946.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Biznet - Kids" tvg-logo = "" judul-grup = "Kids", Biznet - Kids
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1945.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "UFC Fight Pass" tvg-logo = "" judul-grup = "Olahraga", UFC Fight Pass
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1975.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "WWE US" tvg-logo = "" judul-grup = "Hiburan", WWE US
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1943.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "SKY Sport MotoGP" tvg-logo = "" judul-grup = "Olahraga", SKY Sport MotoGP
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1932.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "SKY Sport F1" tvg-logo = "" judul-grup = "Olahraga", SKY Sport F1
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1931.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "TVRI Sport HD" tvg-logo = "" judul grup = "Olahraga", TVRI Sport HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1965.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "NBA TV" tvg-logo = "" judul-grup = "Olahraga", NBA TV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1901.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "MU TV" tvg-logo = "" judul-grup = "Olahraga", MU TV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1893.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "ESPN 2" tvg-logo = "" judul-grup = "Olahraga", ESPN 2
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1889.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "TV Chelsea" tvg-logo = "" judul-grup = "Olahraga", Chelsea TV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1892.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "TV Real Madrid" tvg-logo = "" judul-grup = "Olahraga", Real Madrid TV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1952.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Sony ESPN HD" tvg-logo = "" judul-grup = "Olahraga", Sony ESPN HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1950.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Sony Six HD" tvg-logo = "" judul grup = "Olahraga", Sony Six HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1949.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Skynet Sport 1" tvg-logo = "" judul-grup = "Olahraga", Skynet Sport 1
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2010.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Skynet Sport 2" tvg-logo = "" judul-grup = "Olahraga", Skynet Sport 2
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2011.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Skynet Sport 3" tvg-logo = "" judul-grup = "Olahraga", Skynet Sport 3
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2012.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Skynet Sport 4" tvg-logo = "" judul-grup = "Olahraga", Skynet Sport 4
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2013.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Skynet Sport 5" tvg-logo = "" judul-grup = "Olahraga", Skynet Sport 5
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2014.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Skynet Sport 6" tvg-logo = "" judul-grup = "Olahraga", Skynet Sport 6
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2015.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Arena Sport 1 HD" tvg-logo = "" judul-grup = "Olahraga", Arena Sport 1 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2029.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Arena Sport 2 HD" tvg-logo = "" judul grup = "Olahraga", Arena Sport 2 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2030.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Arena Sport 3 HD" tvg-logo = "" judul grup = "Olahraga", Arena Sport 3 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2031.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Arena Sport 4 HD" tvg-logo = "" judul grup = "Olahraga", Arena Sport 4 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2032.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Ad Sport 2" tvg-logo = "" judul-grup = "Olahraga", Ad Sport 2
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1996.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Ad Sport 1" tvg-logo = "" judul-grup = "Olahraga", Ad Sport 1
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1997.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "True Sport 1 HD" tvg-logo = "" judul-grup = "Olahraga", True Sport 1 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1988.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "True Sport 2 HD" tvg-logo = "" judul-grup = "Olahraga", True Sport 2 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1989.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "True Sport 3 HD" tvg-logo = "" judul-grup = "Olahraga", True Sport 3 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1990.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Fox Sport 1 HD" tvg-logo = "" judul grup = "Olahraga", Fox Sport 1 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1971.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Fox Sport 2 HD" tvg-logo = "" judul grup = "Olahraga", Fox Sport 2 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1972.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Fox Sport 3 HD" tvg-logo = "" judul grup = "Olahraga", Fox Sport 3 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1973.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BT Sport 1 HD" tvg-logo = "" judul-grup = "Olahraga", BT Sport 1 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1976.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BT Sport 2 HD" tvg-logo = "" judul-grup = "Olahraga", BT Sport 2 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1977.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BeiN Sport 1" tvg-logo = "" judul-grup = "Olahraga", BeiN Sport 1
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1874.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BeiN Sport 2" tvg-logo = "" judul-grup = "Olahraga", BeiN Sport 2
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1875.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BeiN Sport 3" tvg-logo = "" judul-grup = "Olahraga", BeiN Sport 3
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1900.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BeiN Sport 4" tvg-logo = "" judul-grup = "Olahraga", BeiN Sport 4
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2000.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BeiN Sport 5" tvg-logo = "" judul-grup = "Olahraga", BeiN Sport 5
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2001.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BeiN Sport 6" tvg-logo = "" judul-grup = "Olahraga", BeiN Sport 6
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2002.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BeiN Sport 7" tvg-logo = "" judul-grup = "Olahraga", BeiN Sport 7
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2003.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BeiN Sport 8" tvg-logo = "" judul-grup = "Olahraga", BeiN Sport 8
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2004.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BeiN Sport 9" tvg-logo = "" judul-grup = "Olahraga", BeiN Sport 9
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2005.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BeiN Sport 10" tvg-logo = "" judul-grup = "Olahraga", BeiN Sport 10
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2006.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Sony Ten 1 HD" tvg-logo = "" judul-grup = "Olahraga", Sony Ten 1 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1968.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Sony Ten 2 HD" tvg-logo = "" judul grup = "Olahraga", Sony Ten 2 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1969.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Sony Ten 3 HD" tvg-logo = "" judul grup = "Olahraga", Sony Ten 3 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1970.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "ESPN HD" tvg-logo = "https://gg.gg/sony-espn" grup-judul = "Olahraga", ESPN HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1864.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal - SCTV" tvg-logo = "" judul-grup = "Lokal", Lokal - SCTV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1986.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal - RTV" tvg-logo = "" judul-grup = "Lokal", Lokal - RTV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1985.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal - TV Kompas" tvg-logo = "" judul-grup = "Lokal", Lokal - TV Kompas
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1981.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal - JAK TV" tvg-logo = "" judul-grup = "Lokal", Lokal - JAK TV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1984.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal - RCTI" tvg-logo = "" judul-grup = "Lokal", Lokal - RCTI
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1935.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal - Indosiar" tvg-logo = "" judul-grup = "Lokal", Lokal - Indosiar
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1995.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "LOCAL - TV One" tvg-logo = "" judul-grup = "Lokal", LOCAL - TV One
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1926.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "LOCAL - TransTV" tvg-logo = "" judul-grup = "Lokal", LOCAL - TransTV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1919.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "LOCAL - Trans7" tvg-logo = "" judul-grup = "Lokal", LOCAL - Trans7
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1918.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "LOCAL - Global TV" tvg-logo = "" judul-grup = "Lokal", LOCAL - Global TV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1921.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "LOCAL - ANTV" tvg-logo = "" judul-grup = "Lokal", LOCAL - ANTV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1920.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal - Net TV" tvg-logo = "" grup-title = "Lokal", Lokal - Net TV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1870.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal - MNC TV" tvg-logo = "" judul-grup = "Lokal", Lokal - MNC TV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1869.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal - Metro TV" tvg-logo = "" judul-grup = "Lokal", Lokal - Metro TV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1867.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal - Berita Satu" tvg-logo = "" judul-grup = "Lokal", Lokal - Berita Satu
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1868.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal - CNN Indonesia" tvg-logo = "" judul-grup = "Lokal", Lokal - CNN Indonesia
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - TRANS TV" tvg-logo = "" judul-grup = "Lokal 2", Lokal - TRANS TV
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - TRANS TV HD" tvg-logo = "" judul-grup = "Lokal 2", Lokal - TRANS TV HD
+http://stream-04.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - RCTI" tvg-logo = "" judul-grup = "Lokal 2", Lokal - RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - SCTV" tvg-logo = "" judul-grup = "Lokal 2", Lokal - SCTV
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - INDOSIAR" tvg-logo = "" judul-grup = "Lokal 2", Lokal - INDOSIAR
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - ANTV" tvg-logo = "" judul-grup = "Lokal 2", Lokal - ANTV
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - TV GLOBAL" tvg-logo = "" judul-grup = "Lokal 2", Lokal - TV GLOBAL
+http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - TV NET HD" tvg-logo = "" judul-grup = "Lokal 2", Lokal - NET TV HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "TV 2 Lokal - MNC" tvg-logo = "" judul-grup = "Lokal 2", Lokal - TV MNC
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - RAJAWALI TV" tvg-logo = "" judul-grup = "Lokal 2", Lokal - RAJAWALI TV
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - KOMPAS TV" tvg-logo = "" judul-grup = "Lokal 2", Lokal - TV KOMPAS
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - TV METRO" tvg-logo = "" judul-grup = "Lokal 2", Lokal - TV METRO
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - TV ONE" tvg-logo = "" judul-grup = "Lokal 2", Lokal - TV ONE
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - BERITA SATU" tvg-logo = "" judul-grup = "Lokal 2", Lokal - BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - CNN INDONESIA" tvg-logo = "" judul-grup = "Lokal 2", Lokal - CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - INEWS" tvg-logo = "" judul-grup = "Lokal 2", Lokal - INEWS
+http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - TVRI" tvg-logo = "" judul-grup = "Lokal 2", Lokal - TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - INTV" tvg-logo = "" judul-grup = "Lokal 2", Lokal - INTV
+http://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - JAK TV" tvg-logo = "" judul-grup = "Lokal 2", Lokal - JAK TV
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - BALI TV" tvg-logo = "" judul-grup = "Lokal 2", Lokal - BALI TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - RRI TV" tvg-logo = "" judul-grup = "Lokal 2", Lokal - TV RRI
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - DANGDUT" tvg-logo = "" judul-grup = "Lokal 2", Lokal - DANGDUT
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - ELSHINTA" tvg-logo = "" judul-grup = "Lokal 2", Lokal - ELSHINTA
+http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - JTV SURABAYA" tvg-logo = "" judul-grup = "Lokal 2", Lokal - JTV SURABAYAR
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - KITANESIA" tvg-logo = "" judul-grup = "Lokal 2", Lokal - KITANESIA
+http://stream1.ninmedia.tv/live/xmedia-kitanesiatv.stream_nin/playlist.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - KLIK MUSIC" tvg-logo = "" judul-grup = "Lokal 2", Lokal - KLIK MUSIK
+http://stream1.ninmedia.tv/live/xmedia-klikmusictv.stream_nin/chunklist_w235696523.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - MALEO CHANNEL" tvg-logo = "" judul-grup = "Lokal 2", Lokal - MALEO CHANNEL
+http://stream1.ninmedia.tv/live/xmedia-maleotv.stream_nin/playlist.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - NTV" tvg-logo = "" judul-grup = "Lokal 2", Lokal - NTV
+http://103.77.106.171:1935/live/liventv1/playlist.m3u8
+ 
+ 
+#EXTINF: 0, SALURAN FILM INDONESIA
+http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w1327035077.m3u8
+ 
+#EXTINF: 0, THE INDONESIA CHANNEL
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+ 
+#EXTINF: 0, TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+ 
+#EXTINF: 0, OLAHRAGA TVRI
+http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
+ 
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1856.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Mode TV HD" tvg-logo = "" judul-grup = "Hiburan", Fashion TV HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1871.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Saluran V" tvg-logo = "" judul-grup = "Hiburan", Saluran V
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2042.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "MTV Asia" tvg-logo = "" judul-grup = "Hiburan", MTV Asia
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2041.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Hits MTV" tvg-logo = "" judul-grup = "Hiburan", Hits MTV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2019.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "MTV Live HD" tvg-logo = "" judul-grup = "Hiburan", MTV Live HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1978.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "K +" tvg-logo = "" judul-grup = "Korea", K +
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1994.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "TvN HD" tvg-logo = "" judul-grup = "Korea", TvN HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1915.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "M-NET" tvg-logo = "" judul-grup = "Korea", M-NET
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1980.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "SBS IN HD" tvg-logo = "" judul-grup = "Korea", SBS IN HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1963.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Drama K" tvg-logo = "" judul-grup = "Korea", Drama K
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1966.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "KBS World HD" tvg-logo = "" judul-grup = "Korea", KBS World HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1948.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Arirang" tvg-logo = "" judul-grup = "Korea", Arirang
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1872.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Nickelodeon" tvg-logo = "" judul-grup = "Anak-anak", Nickelodeon
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2016.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Cartoon Network HD" tvg-logo = "" judul-grup = "Anak-anak", Cartoon Network HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2020.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "DI TV" tvg-logo = "" judul-grup = "Anak-anak", DI TV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1967.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Disney Channel Junior (ID)" tvg-logo = "" judul-grup = "Anak-anak", Disney Channel Junior (ID)
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1857.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Discovery Turbo HD" tvg-logo = "" judul-grup = "Pendidikan", Discovery Turbo HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2027.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Discovery Channel HD" tvg-logo = "" judul-grup = "Pendidikan", Discovery Channel HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1907.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Discovery Science HD" tvg-logo = "" judul-grup = "Pendidikan", Discovery Science HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1979.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "National Geographic Wild" tvg-logo = "" judul-grup = "Pendidikan", National Geographic Wild
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1940.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Saluran Geografis Nasional HD" tvg-logo = "" judul-grup = "Pendidikan", National Geographic Channel HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1877.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Dokumenter CGTN" tvg-logo = "" judul-grup = "Pendidikan", Dokumenter CGTN
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2028.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Animal Planet HD" tvg-logo = "" judul-grup = "Pendidikan", Animal Planet HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1933.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "NHK World Japan" tvg-logo = "" judul-grup = "Berita Internasional", NHK World Jepang
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1982.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Saluran DW" tvg-logo = "" judul-grup = "Berita Internasional", DW Channel
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1983.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "TLC HD" tvg-logo = "" judul-grup = "Hiburan", TLC HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2055.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "AL Jazeera" tvg-logo = "" judul-grup = "Berita Internasional", AL Jazeera
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1947.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Sony One HD" tvg-logo = "" judul-grup = "Hiburan", Sony One HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2049.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Sony Channel HD" tvg-logo = "" judul-grup = "Hiburan", Sony Channel HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2050.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "HD Seumur Hidup" tvg-logo = "" judul-grup = "Film", Lifetime HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2051.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Aniplus HD" tvg-logo = "" judul-grup = "Film", Aniplus HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2052.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "WB TV" tvg-logo = "" judul-grup = "Film", TV WB
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2046.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Hits" tvg-logo = "" judul-grup = "Film", Hits
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2043.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "AXN HD" tvg-logo = "" judul-grup = "Film", AXN HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2045.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Animax HD" tvg-logo = "" judul-grup = "Film", Animax HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2044.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "ID sensasi" tvg-logo = "" judul-grup = "Film", ID sensasi
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1962.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "KiX" tvg-logo = "" judul-grup = "Film", KiX
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1960.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Film Klasik Surgawi" tvg-logo = "" judul-grup = "Film", Film Klasik Surgawi
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2040.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "ID Film Surgawi" tvg-logo = "" judul-grup = "Film", ID Film Surgawi
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1961.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Riwayat HD" tvg-logo = "" judul-grup = "Pendidikan", Sejarah HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1938.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "FOX HD" tvg-logo = "http://www.filflix.org/uploads/tv_image/fox-hd.jpg" group-title = "Film ", FOX HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/4.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "HBO HD" tvg-logo = "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" grup-judul = "Film", HBO HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Cinemax HD" tvg-logo = "" judul-grup = "Film", Cinemax HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2053.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "HD Film Premium HD" tvg-logo = "http://whatson.dens.tv/media/img/fox-movies.jpg" grup-judul = "Film", Fox Movies Premium HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Film Aksi Fox HD" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" group- title = "Movies", Fox Action Movies HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/3.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Prive HD" tvg-logo = "" judul-grup = "Film", Prive HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1993.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Flix HD" tvg-logo = "" judul-grup = "Film", Flix HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1992.ts
+RAW Paste Data
+# EXTM3U
+#EXTINF: -1 tvg-ID = "" tvg-name = "Biznet - Gaya Hidup HD" tvg-logo = "" judul-grup = "Hiburan", Biznet - Gaya Hidup HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1946.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Biznet - Kids" tvg-logo = "" judul-grup = "Kids", Biznet - Kids
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1945.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "UFC Fight Pass" tvg-logo = "" judul-grup = "Olahraga", UFC Fight Pass
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1975.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "WWE US" tvg-logo = "" judul-grup = "Hiburan", WWE US
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1943.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "SKY Sport MotoGP" tvg-logo = "" judul-grup = "Olahraga", SKY Sport MotoGP
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1932.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "SKY Sport F1" tvg-logo = "" judul-grup = "Olahraga", SKY Sport F1
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1931.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "TVRI Sport HD" tvg-logo = "" judul grup = "Olahraga", TVRI Sport HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1965.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "NBA TV" tvg-logo = "" judul-grup = "Olahraga", NBA TV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1901.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "MU TV" tvg-logo = "" judul-grup = "Olahraga", MU TV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1893.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "ESPN 2" tvg-logo = "" judul-grup = "Olahraga", ESPN 2
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1889.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "TV Chelsea" tvg-logo = "" judul-grup = "Olahraga", Chelsea TV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1892.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "TV Real Madrid" tvg-logo = "" judul-grup = "Olahraga", Real Madrid TV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1952.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Sony ESPN HD" tvg-logo = "" judul-grup = "Olahraga", Sony ESPN HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1950.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Sony Six HD" tvg-logo = "" judul grup = "Olahraga", Sony Six HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1949.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Skynet Sport 1" tvg-logo = "" judul-grup = "Olahraga", Skynet Sport 1
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2010.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Skynet Sport 2" tvg-logo = "" judul-grup = "Olahraga", Skynet Sport 2
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2011.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Skynet Sport 3" tvg-logo = "" judul-grup = "Olahraga", Skynet Sport 3
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2012.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Skynet Sport 4" tvg-logo = "" judul-grup = "Olahraga", Skynet Sport 4
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2013.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Skynet Sport 5" tvg-logo = "" judul-grup = "Olahraga", Skynet Sport 5
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2014.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Skynet Sport 6" tvg-logo = "" judul-grup = "Olahraga", Skynet Sport 6
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2015.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Arena Sport 1 HD" tvg-logo = "" judul-grup = "Olahraga", Arena Sport 1 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2029.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Arena Sport 2 HD" tvg-logo = "" judul grup = "Olahraga", Arena Sport 2 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2030.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Arena Sport 3 HD" tvg-logo = "" judul grup = "Olahraga", Arena Sport 3 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2031.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Arena Sport 4 HD" tvg-logo = "" judul grup = "Olahraga", Arena Sport 4 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2032.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Ad Sport 2" tvg-logo = "" judul-grup = "Olahraga", Ad Sport 2
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1996.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Ad Sport 1" tvg-logo = "" judul-grup = "Olahraga", Ad Sport 1
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1997.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "True Sport 1 HD" tvg-logo = "" judul-grup = "Olahraga", True Sport 1 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1988.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "True Sport 2 HD" tvg-logo = "" judul-grup = "Olahraga", True Sport 2 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1989.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "True Sport 3 HD" tvg-logo = "" judul-grup = "Olahraga", True Sport 3 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1990.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Fox Sport 1 HD" tvg-logo = "" judul grup = "Olahraga", Fox Sport 1 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1971.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Fox Sport 2 HD" tvg-logo = "" judul grup = "Olahraga", Fox Sport 2 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1972.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Fox Sport 3 HD" tvg-logo = "" judul grup = "Olahraga", Fox Sport 3 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1973.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BT Sport 1 HD" tvg-logo = "" judul-grup = "Olahraga", BT Sport 1 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1976.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BT Sport 2 HD" tvg-logo = "" judul-grup = "Olahraga", BT Sport 2 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1977.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BeiN Sport 1" tvg-logo = "" judul-grup = "Olahraga", BeiN Sport 1
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1874.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BeiN Sport 2" tvg-logo = "" judul-grup = "Olahraga", BeiN Sport 2
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1875.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BeiN Sport 3" tvg-logo = "" judul-grup = "Olahraga", BeiN Sport 3
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1900.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BeiN Sport 4" tvg-logo = "" judul-grup = "Olahraga", BeiN Sport 4
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2000.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BeiN Sport 5" tvg-logo = "" judul-grup = "Olahraga", BeiN Sport 5
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2001.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BeiN Sport 6" tvg-logo = "" judul-grup = "Olahraga", BeiN Sport 6
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2002.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BeiN Sport 7" tvg-logo = "" judul-grup = "Olahraga", BeiN Sport 7
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2003.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BeiN Sport 8" tvg-logo = "" judul-grup = "Olahraga", BeiN Sport 8
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2004.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BeiN Sport 9" tvg-logo = "" judul-grup = "Olahraga", BeiN Sport 9
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2005.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "BeiN Sport 10" tvg-logo = "" judul-grup = "Olahraga", BeiN Sport 10
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2006.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Sony Ten 1 HD" tvg-logo = "" judul-grup = "Olahraga", Sony Ten 1 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1968.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Sony Ten 2 HD" tvg-logo = "" judul grup = "Olahraga", Sony Ten 2 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1969.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Sony Ten 3 HD" tvg-logo = "" judul grup = "Olahraga", Sony Ten 3 HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1970.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "ESPN HD" tvg-logo = "https://gg.gg/sony-espn" grup-judul = "Olahraga", ESPN HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1864.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal - SCTV" tvg-logo = "" judul-grup = "Lokal", Lokal - SCTV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1986.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal - RTV" tvg-logo = "" judul-grup = "Lokal", Lokal - RTV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1985.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal - TV Kompas" tvg-logo = "" judul-grup = "Lokal", Lokal - TV Kompas
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1981.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal - JAK TV" tvg-logo = "" judul-grup = "Lokal", Lokal - JAK TV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1984.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal - RCTI" tvg-logo = "" judul-grup = "Lokal", Lokal - RCTI
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1935.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal - Indosiar" tvg-logo = "" judul-grup = "Lokal", Lokal - Indosiar
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1995.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "LOCAL - TV One" tvg-logo = "" judul-grup = "Lokal", LOCAL - TV One
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1926.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "LOCAL - TransTV" tvg-logo = "" judul-grup = "Lokal", LOCAL - TransTV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1919.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "LOCAL - Trans7" tvg-logo = "" judul-grup = "Lokal", LOCAL - Trans7
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1918.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "LOCAL - Global TV" tvg-logo = "" judul-grup = "Lokal", LOCAL - Global TV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1921.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "LOCAL - ANTV" tvg-logo = "" judul-grup = "Lokal", LOCAL - ANTV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1920.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal - Net TV" tvg-logo = "" grup-title = "Lokal", Lokal - Net TV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1870.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal - MNC TV" tvg-logo = "" judul-grup = "Lokal", Lokal - MNC TV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1869.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal - Metro TV" tvg-logo = "" judul-grup = "Lokal", Lokal - Metro TV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1867.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal - Berita Satu" tvg-logo = "" judul-grup = "Lokal", Lokal - Berita Satu
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1868.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal - CNN Indonesia" tvg-logo = "" judul-grup = "Lokal", Lokal - CNN Indonesia
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - TRANS TV" tvg-logo = "" judul-grup = "Lokal 2", Lokal - TRANS TV
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - TRANS TV HD" tvg-logo = "" judul-grup = "Lokal 2", Lokal - TRANS TV HD
+http://stream-04.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - RCTI" tvg-logo = "" judul-grup = "Lokal 2", Lokal - RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - SCTV" tvg-logo = "" judul-grup = "Lokal 2", Lokal - SCTV
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - INDOSIAR" tvg-logo = "" judul-grup = "Lokal 2", Lokal - INDOSIAR
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - ANTV" tvg-logo = "" judul-grup = "Lokal 2", Lokal - ANTV
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - TV GLOBAL" tvg-logo = "" judul-grup = "Lokal 2", Lokal - TV GLOBAL
+http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - TV NET HD" tvg-logo = "" judul-grup = "Lokal 2", Lokal - NET TV HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "TV 2 Lokal - MNC" tvg-logo = "" judul-grup = "Lokal 2", Lokal - TV MNC
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - RAJAWALI TV" tvg-logo = "" judul-grup = "Lokal 2", Lokal - RAJAWALI TV
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - KOMPAS TV" tvg-logo = "" judul-grup = "Lokal 2", Lokal - TV KOMPAS
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - TV METRO" tvg-logo = "" judul-grup = "Lokal 2", Lokal - TV METRO
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - TV ONE" tvg-logo = "" judul-grup = "Lokal 2", Lokal - TV ONE
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - BERITA SATU" tvg-logo = "" judul-grup = "Lokal 2", Lokal - BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - CNN INDONESIA" tvg-logo = "" judul-grup = "Lokal 2", Lokal - CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - INEWS" tvg-logo = "" judul-grup = "Lokal 2", Lokal - INEWS
+http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - TVRI" tvg-logo = "" judul-grup = "Lokal 2", Lokal - TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - INTV" tvg-logo = "" judul-grup = "Lokal 2", Lokal - INTV
+http://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - JAK TV" tvg-logo = "" judul-grup = "Lokal 2", Lokal - JAK TV
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - BALI TV" tvg-logo = "" judul-grup = "Lokal 2", Lokal - BALI TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - RRI TV" tvg-logo = "" judul-grup = "Lokal 2", Lokal - TV RRI
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - DANGDUT" tvg-logo = "" judul-grup = "Lokal 2", Lokal - DANGDUT
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - ELSHINTA" tvg-logo = "" judul-grup = "Lokal 2", Lokal - ELSHINTA
+http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - JTV SURABAYA" tvg-logo = "" judul-grup = "Lokal 2", Lokal - JTV SURABAYAR
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - KITANESIA" tvg-logo = "" judul-grup = "Lokal 2", Lokal - KITANESIA
+http://stream1.ninmedia.tv/live/xmedia-kitanesiatv.stream_nin/playlist.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - KLIK MUSIC" tvg-logo = "" judul-grup = "Lokal 2", Lokal - KLIK MUSIK
+http://stream1.ninmedia.tv/live/xmedia-klikmusictv.stream_nin/chunklist_w235696523.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - MALEO CHANNEL" tvg-logo = "" judul-grup = "Lokal 2", Lokal - MALEO CHANNEL
+http://stream1.ninmedia.tv/live/xmedia-maleotv.stream_nin/playlist.m3u8
+ 
+#EXTINF: -1 tvg-ID = "" tvg-name = "Lokal 2 - NTV" tvg-logo = "" judul-grup = "Lokal 2", Lokal - NTV
+http://103.77.106.171:1935/live/liventv1/playlist.m3u8
+ 
+ 
+#EXTINF: 0, SALURAN FILM INDONESIA
+http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w1327035077.m3u8
+ 
+#EXTINF: 0, THE INDONESIA CHANNEL
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+ 
+#EXTINF: 0, TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+ 
+#EXTINF: 0, OLAHRAGA TVRI
+http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
+ 
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1856.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Mode TV HD" tvg-logo = "" judul-grup = "Hiburan", Fashion TV HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1871.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Saluran V" tvg-logo = "" judul-grup = "Hiburan", Saluran V
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2042.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "MTV Asia" tvg-logo = "" judul-grup = "Hiburan", MTV Asia
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2041.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Hits MTV" tvg-logo = "" judul-grup = "Hiburan", Hits MTV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2019.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "MTV Live HD" tvg-logo = "" judul-grup = "Hiburan", MTV Live HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1978.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "K +" tvg-logo = "" judul-grup = "Korea", K +
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1994.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "TvN HD" tvg-logo = "" judul-grup = "Korea", TvN HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1915.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "M-NET" tvg-logo = "" judul-grup = "Korea", M-NET
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1980.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "SBS IN HD" tvg-logo = "" judul-grup = "Korea", SBS IN HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1963.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Drama K" tvg-logo = "" judul-grup = "Korea", Drama K
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1966.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "KBS World HD" tvg-logo = "" judul-grup = "Korea", KBS World HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1948.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Arirang" tvg-logo = "" judul-grup = "Korea", Arirang
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1872.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Nickelodeon" tvg-logo = "" judul-grup = "Anak-anak", Nickelodeon
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2016.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Cartoon Network HD" tvg-logo = "" judul-grup = "Anak-anak", Cartoon Network HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2020.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "DI TV" tvg-logo = "" judul-grup = "Anak-anak", DI TV
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1967.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Disney Channel Junior (ID)" tvg-logo = "" judul-grup = "Anak-anak", Disney Channel Junior (ID)
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1857.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Discovery Turbo HD" tvg-logo = "" judul-grup = "Pendidikan", Discovery Turbo HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2027.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Discovery Channel HD" tvg-logo = "" judul-grup = "Pendidikan", Discovery Channel HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1907.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Discovery Science HD" tvg-logo = "" judul-grup = "Pendidikan", Discovery Science HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1979.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "National Geographic Wild" tvg-logo = "" judul-grup = "Pendidikan", National Geographic Wild
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1940.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Saluran Geografis Nasional HD" tvg-logo = "" judul-grup = "Pendidikan", National Geographic Channel HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1877.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Dokumenter CGTN" tvg-logo = "" judul-grup = "Pendidikan", Dokumenter CGTN
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2028.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Animal Planet HD" tvg-logo = "" judul-grup = "Pendidikan", Animal Planet HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1933.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "NHK World Japan" tvg-logo = "" judul-grup = "Berita Internasional", NHK World Jepang
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1982.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Saluran DW" tvg-logo = "" judul-grup = "Berita Internasional", DW Channel
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1983.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "TLC HD" tvg-logo = "" judul-grup = "Hiburan", TLC HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2055.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "AL Jazeera" tvg-logo = "" judul-grup = "Berita Internasional", AL Jazeera
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1947.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Sony One HD" tvg-logo = "" judul-grup = "Hiburan", Sony One HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2049.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Sony Channel HD" tvg-logo = "" judul-grup = "Hiburan", Sony Channel HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2050.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "HD Seumur Hidup" tvg-logo = "" judul-grup = "Film", Lifetime HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2051.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Aniplus HD" tvg-logo = "" judul-grup = "Film", Aniplus HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2052.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "WB TV" tvg-logo = "" judul-grup = "Film", TV WB
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2046.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Hits" tvg-logo = "" judul-grup = "Film", Hits
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2043.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "AXN HD" tvg-logo = "" judul-grup = "Film", AXN HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2045.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Animax HD" tvg-logo = "" judul-grup = "Film", Animax HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2044.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "ID sensasi" tvg-logo = "" judul-grup = "Film", ID sensasi
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1962.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "KiX" tvg-logo = "" judul-grup = "Film", KiX
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1960.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Film Klasik Surgawi" tvg-logo = "" judul-grup = "Film", Film Klasik Surgawi
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2040.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "ID Film Surgawi" tvg-logo = "" judul-grup = "Film", ID Film Surgawi
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1961.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Riwayat HD" tvg-logo = "" judul-grup = "Pendidikan", Sejarah HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1938.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "FOX HD" tvg-logo = "http://www.filflix.org/uploads/tv_image/fox-hd.jpg" group-title = "Film ", FOX HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/4.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "HBO HD" tvg-logo = "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" grup-judul = "Film", HBO HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Cinemax HD" tvg-logo = "" judul-grup = "Film", Cinemax HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2053.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "HD Film Premium HD" tvg-logo = "http://whatson.dens.tv/media/img/fox-movies.jpg" grup-judul = "Film", Fox Movies Premium HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Film Aksi Fox HD" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" group- title = "Movies", Fox Action Movies HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/3.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Prive HD" tvg-logo = "" judul-grup = "Film", Prive HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1993.ts
+#EXTINF: -1 tvg-ID = "" tvg-name = "Flix HD" tvg-logo = "" judul-grup = "Film", Flix HD
+http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1992.ts
