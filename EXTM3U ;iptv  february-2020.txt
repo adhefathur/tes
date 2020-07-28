@@ -1,6 +1,4 @@
-===================================================================================================================
-For paid channels from here : << http://exe.io/hg5J1a >>
-====================================================================================================================
+
 # EXTM3U
 #EXTINF: -1 tvg-ID = "" tvg-name = "Biznet - Gaya Hidup HD" tvg-logo = "" judul-grup = "Hiburan", Biznet - Gaya Hidup HD
 http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1946.ts
